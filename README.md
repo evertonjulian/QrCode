@@ -3,15 +3,6 @@
 ## Descrição do projeto
 <p align="center">SPA para geração de QrCode, composto pelos valores dos campos de texto da página</p>
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
-
 <h4 align="center"> 
 	:black_square_button::white_square_button: QrCode :white_square_button::black_square_button: Concluído :white_check_mark:
 </h4>
